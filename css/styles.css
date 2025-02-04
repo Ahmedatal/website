@@ -598,17 +598,17 @@ progress {
 }
 
 .img-fluid {
-  padding: 15px;
-  width: 350px;
+  padding: 10px;
+  width: 50%;
   max-width: 100%;
-  height: auto;
+  height: 30%;
 }
 
 .img-fluid2 {
   padding: 40px;
   max-width: 100%;
-  width: auto;
-  height: 400px;
+  width: 30%;
+  height: 10%;
 }
 
 .img-thumbnail {
